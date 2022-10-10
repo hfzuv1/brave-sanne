@@ -1,0 +1,90 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td input {
+  border: 0;
+  text-align: center;
+  width: 50px;
+}
+
+.XpColosseum {
+  background-color: Linen;
+}
+
+.XpColosseum td input {
+  background-color: Linen;
+}
+
+.MercilessXp {
+  background-color: rgb(233, 210, 245);
+}
+
+.MercilessXp td input {
+  background-color: rgb(233, 210, 245);
+}
+
+.XpBonanza {
+  background-color: darkSalmon;
+}
+
+.XpBonanza td input {
+  background-color: darkSalmon;
+}
+
+.hippo {
+  background-color: rgb(108, 207, 214);
+}
+
+.hippo td input {
+  background-color: rgb(108, 207, 214);
+}
+
+.App input {
+  text-align: center;
+  width: 50px;
+}
+
+.parent {
+  display: flex;
+  align-items: center;
+}
+
+.beforeMain {
+  font-size: 11px;
+  color: rgb(211, 32, 26);
+  width: 15%;
+  vertical-align: center;
+}
+
+.main {
+  width: 50%;
+}
+
+.numOfLeaderships {
+  text-align: right;
+  font-size: 12px;
+  color: rgb(195, 0, 255);
+  width: 9%;
+}
+
+.numOfTickets {
+  text-align: right;
+  font-size: 12px;
+  color: rgb(0, 89, 255);
+  width: 9%;
+}
+
+.remainingValue {
+  text-align: right;
+  font-size: 12px;
+  color: rgb(49, 151, 49);
+  width: 15%;
+  padding-right: 1px;
+}
